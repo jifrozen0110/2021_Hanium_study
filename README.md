@@ -55,7 +55,7 @@ https://www.inflearn.com/course/spring-boot-restful-web-services/dashboard
 |4월 2일||||
 |4월 3일||||
 |4월 4일||||
-|4월 5일|노마드 react #3|||
-|4월 6일||||
+|4월 5일|노마드 react #3|o||
+|4월 6일|노마드 react #4,5|||
 
 
