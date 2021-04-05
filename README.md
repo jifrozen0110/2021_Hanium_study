@@ -30,8 +30,9 @@ https://www.inflearn.com/course/spring-boot-restful-web-services/dashboard
 |3월 31일|스프링 chapter 1|o||
 |4월 1일|도커 스터디(완강)|o||
 |4월 2일|개인공부|||
-|4월 3일||||
-|4월 4일||||
+|4월 3일|개인공부|||
+|4월 4일|개인공부|||
+|4월 5일|spring rest 강의시작|o||
 
 
 |날짜|챕터|TaeBeom Shin|
