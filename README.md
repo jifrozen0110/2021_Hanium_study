@@ -46,9 +46,8 @@ https://www.inflearn.com/course/spring-boot-restful-web-services/dashboard
 
 |날짜|챕터|yejipractice|
 |------|---|---|
-|4월 2일||||
-|4월 3일||||
-|4월 4일||||
+|4월 5일|노마드 클론코딩|o||
+|4월 6일|생활코딩 web|||
 
 |날짜|챕터|yunva17|
 |------|---|---|
