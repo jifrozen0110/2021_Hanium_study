@@ -1,0 +1,6 @@
+#alpine이용한 node
+FROM   node:12-alpine
+#js팡리 복사
+COPY   server.js /app/
+EXPOSE 8080
+CMD    ["node", "/app/server.js"]
