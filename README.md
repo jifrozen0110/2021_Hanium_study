@@ -21,7 +21,7 @@ https://www.inflearn.com/course/%EB%8F%84%EC%BB%A4-%EC%9E%85%EB%AC%B8
 https://www.inflearn.com/course/spring-boot-restful-web-services/dashboard
 ![image](https://user-images.githubusercontent.com/62784314/113483210-3f8fbd00-94dd-11eb-9ac3-776227e3c17a.png)
 
-# docker study
+# 스프링 cloud 토크 on 세미나
 #### 참여 : TaeBeomShin
 #### 날짜 : 4월 9일 ~
 https://www.youtube.com/watch?v=D6drzNZWs-Y&list=PLzJbUC5OM4X7RN5Co2Xd7QWnh6DV0yDcP
