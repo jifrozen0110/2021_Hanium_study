@@ -50,7 +50,7 @@ https://www.inflearn.com/course/spring-boot-restful-web-services/dashboard
 |4월 5일|노마드 클론코딩|o||
 |4월 6일|생활코딩 web|o||
 |4월 7일|생활코딩 web|o||
-|4월 8일|노마드 클론코딩|o||
+|4월 8일|노마드 클론코딩 개인공부|o||
 
 |날짜|챕터|yunva17|
 |------|---|---|
