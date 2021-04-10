@@ -67,5 +67,6 @@ https://www.youtube.com/watch?v=D6drzNZWs-Y&list=PLzJbUC5OM4X7RN5Co2Xd7QWnh6DV0y
 |4월 5일|노마드 react #3|o||
 |4월 6일|노마드 react #4|o||
 |4월 8일|노마드 react(완강)|o||
+|4월 10일|인프런 css 강의|o||
 
 
