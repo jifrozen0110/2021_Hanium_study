@@ -38,6 +38,8 @@ https://www.youtube.com/watch?v=D6drzNZWs-Y&list=PLzJbUC5OM4X7RN5Co2Xd7QWnh6DV0y
 |4월 5일|spring rest 강의시작|o||
 |4월 6일|개발환경조성|o||
 |4월 8일|사용자 rest api|o||
+|4월 10일|rest api 버전관리|o||
+|4월 11일|rest api 다국어|o||
 
 
 |날짜|챕터|TaeBeom Shin|
