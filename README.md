@@ -27,6 +27,12 @@ https://www.inflearn.com/course/spring-boot-restful-web-services/dashboard
 https://www.youtube.com/watch?v=D6drzNZWs-Y&list=PLzJbUC5OM4X7RN5Co2Xd7QWnh6DV0yDcP
 
 
+# Spring Cloud로 개발하는 마이크로서비스 애플리케이션
+![image](https://user-images.githubusercontent.com/62784314/115007174-ae5d1500-9ee4-11eb-9ef4-bfc25e79e703.png)
+#### 참여 : jifrozen
+#### 날짜 : 4월 16일 ~
+https://www.inflearn.com/course/%EC%8A%A4%ED%94%84%EB%A7%81-%ED%81%B4%EB%9D%BC%EC%9A%B0%EB%93%9C-%EB%A7%88%EC%9D%B4%ED%81%AC%EB%A1%9C%EC%84%9C%EB%B9%84%EC%8A%A4
+
 |날짜|챕터|jiFrozen|
 |------|---|---|
 |3월 30일|스프링 실습환경구축|o||
@@ -41,7 +47,8 @@ https://www.youtube.com/watch?v=D6drzNZWs-Y&list=PLzJbUC5OM4X7RN5Co2Xd7QWnh6DV0y
 |4월 10일|rest api 버전관리|o||
 |4월 11일|rest api 다국어|o||
 |4월 13일|rest api post|o||
-|4월 14일|rest api |o||
+|4월 14일|rest api 완강|o||
+|4월 16일|msa 강의 #1|o||
 
 
 |날짜|챕터|TaeBeom Shin|
