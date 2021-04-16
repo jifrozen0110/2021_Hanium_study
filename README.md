@@ -59,11 +59,11 @@ https://www.inflearn.com/course/%EC%8A%A4%ED%94%84%EB%A7%81-%ED%81%B4%EB%9D%BC%E
 |4월 2일|스프링 chapter 2까지 읽기|o||
 |4월 3일|스프링 chapter 2 실습|o||
 |4월 4일|스프링 chapter 3까지 읽기|o||
-|4월 5일||||
-|4월 6일||||
-|4월 7일||||
-|4월 8일||||
-|4월 9일||||
+|4월 5일|스프링 개인 공부/복습 |O||
+|4월 6일|스프링 개인 공부/복습 |O||
+|4월 7일|스프링 개인 공부/복습 |O||
+|4월 8일|RESTful Web Services 기본설정|O||
+|4월 9일|RESTful Web Services User Api 구현|O||
 
 |날짜|챕터|yejipractice|
 |------|---|---|
