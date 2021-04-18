@@ -33,6 +33,11 @@ https://www.youtube.com/watch?v=D6drzNZWs-Y&list=PLzJbUC5OM4X7RN5Co2Xd7QWnh6DV0y
 #### 날짜 : 4월 16일 ~
 https://www.inflearn.com/course/%EC%8A%A4%ED%94%84%EB%A7%81-%ED%81%B4%EB%9D%BC%EC%9A%B0%EB%93%9C-%EB%A7%88%EC%9D%B4%ED%81%AC%EB%A1%9C%EC%84%9C%EB%B9%84%EC%8A%A4
 
+# CSS 기본부터 활용까지
+#### 참여 : yunva17
+#### 날짜 : 4월 10일 ~
+https://inf.run/BB1u
+
 |날짜|챕터|jiFrozen|
 |------|---|---|
 |3월 30일|스프링 실습환경구축|o||
@@ -80,5 +85,11 @@ https://www.inflearn.com/course/%EC%8A%A4%ED%94%84%EB%A7%81-%ED%81%B4%EB%9D%BC%E
 |4월 6일|노마드 react #4|o||
 |4월 8일|노마드 react(완강)|o||
 |4월 10일|인프런 css 강의|o||
+|4월 11일|인프런 css 강의|o||
+|4월 12일|인프런 css 강의(완강)|o||
+|4월 14일|js 개인 공부/복습|o||
+|4월 15일|react 개인 공부/복습|o||
+
+
 
 
