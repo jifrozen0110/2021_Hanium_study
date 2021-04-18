@@ -49,6 +49,7 @@ https://www.inflearn.com/course/%EC%8A%A4%ED%94%84%EB%A7%81-%ED%81%B4%EB%9D%BC%E
 |4월 13일|rest api post|o||
 |4월 14일|rest api 완강|o||
 |4월 16일|msa 강의 #1|o||
+|4월 17일|msa 강의 #2|o||
 
 
 |날짜|챕터|TaeBeom Shin|
