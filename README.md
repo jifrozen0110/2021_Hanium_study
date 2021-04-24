@@ -55,6 +55,7 @@ https://inf.run/BB1u
 |4월 14일|rest api 완강|o||
 |4월 16일|msa 강의 #1|o||
 |4월 17일|msa 강의 #2|o||
+|4월 23일|msa 강의 #3|o||
 
 
 |날짜|챕터|TaeBeom Shin|
